@@ -20,7 +20,7 @@ std::cout<<"Hola mundo"<<std::endl;
 
 Estos son algunos de los repositorios que tengo en github: 
 
-[Repositorio Regresión lineal](https://github.com/Calles98/Regresion-Lineal-)ç
+[Repositorio Regresión lineal](https://github.com/Calles98/Regresion-Lineal-)
 
 [Respositorio Descenso Gradiente](https://github.com/Calles98/Descenso-Gradiente-)
 
