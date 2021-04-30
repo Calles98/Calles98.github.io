@@ -14,7 +14,13 @@ s = "Hola mundo"
 print(s)
 ```
 
-También se puede hacer pedazos de código de C++
+También se puede hacer pedazos de código de C++ y cualquier otro lenguaje
 
 ```C++
 std::cout<<"Hola mundo"<<std::endl;
+
+
+Estos son algunos de los repositorios que tengo en github: 
+··*[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+```
