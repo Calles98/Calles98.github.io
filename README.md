@@ -20,6 +20,6 @@ std::cout<<"Hola mundo"<<std::endl;
 
 ```
 Estos son algunos de los repositorios que tengo en github: 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm an inline-style link](https://www.google.com)
 
 ```
