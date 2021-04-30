@@ -18,8 +18,7 @@ print(s)
 std::cout<<"Hola mundo"<<std::endl;
 ```
 
-```
 Estos son algunos de los repositorios que tengo en github: 
+
 [I'm an inline-style link](https://www.google.com)
 
-```
