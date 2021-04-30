@@ -13,3 +13,8 @@ Este es un ejemplo de código de Python inline en una página de github
 s = "Hola mundo"
 print(s)
 ```
+
+También se puede hacer pedazos de código de C++
+
+```C++
+std::cout<<"Hola mundo"<<std::endl;
