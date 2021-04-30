@@ -7,8 +7,8 @@
 ```
 Este es un ejemplo de código de Python inline en una página de github
 
-python 
+```python 
 s = "Hola mundo"
 print(s)
-
+```
 ```
