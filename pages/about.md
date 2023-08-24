@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Im a Computer Science graduate from Mexico. I love to code and I am open to learn new skills from others and work with other to create great software. 
+I'm a Computer Science graduate from Mexico. I love to code and I'm open to learn new skills from others and work with othes to create great software. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
