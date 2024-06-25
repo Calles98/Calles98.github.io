@@ -13,3 +13,15 @@
 - name: C++
   percentage: 70
   color: 
+
+- name: Next.js 
+  percentage: 65
+  color: 
+
+- name: Pandas
+  percentage: 70
+  color: 
+
+- name: sci-kit learn
+  percentage: 75
+  color: 
